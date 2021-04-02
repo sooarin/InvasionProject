@@ -1,0 +1,38 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#d3d3d3</item>
+    </style>
+
+    <!-- No 액션바 지정 !-->
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <!-- EmergencyOptionAddActivity 지정 !-->
+    <style name="Theme.MyDialog" parent="Theme.AppCompat.DayNight.Dialog.MinWidth">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowFixedHeightMajor">30%</item>
+        <item name="windowFixedWidthMinor">90%</item>
+    </style>
+    <!-- OpenSourceActivity 지정2 !-->
+    <style name="Theme.MyDialog2" parent="Theme.AppCompat.DayNight.Dialog.MinWidth">
+        <item name="windowActionBar">false</item>
+        <item name="windowFixedHeightMajor">90%</item>
+        <item name="windowFixedWidthMinor">90%</item>
+    </style>
+    <!-- LogEmergencyActivity 다이얼로그 지정 !-->
+    <style name="Theme.MyDialog3" parent="Theme.AppCompat.DayNight.Dialog.MinWidth">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowFixedHeightMajor">30%</item>
+        <item name="windowFixedWidthMinor">90%</item>
+    </style>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213036694754",
+    "firebase_url": "https://cerberus-592f9.firebaseio.com",
+    "project_id": "cerberus-592f9",
+    "storage_bucket": "cerberus-592f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213036694754:android:f9dbfa84b6df345fb072bb",
+        "android_client_info": {
+          "package_name": "com.cookandroid.invasion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213036694754-jtpb7hkv3ns7cot1b4v5cjf2e0ndkhku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookandroid.invasion",
+            "certificate_hash": "96c35584c60d5bb2edcc6169eb5018f60e6722d4"
+          }
+        },
+        {
+          "client_id": "213036694754-50liba2tom1eg9aqka6mit72c1cgt9s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlfS7afFqZX3F9DkTw61153BywqbLLZFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213036694754-50liba2tom1eg9aqka6mit72c1cgt9s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
